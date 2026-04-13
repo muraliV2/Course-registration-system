@@ -39,15 +39,16 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
-		<dependency>
-    <groupId>org.xerial</groupId>
-    <artifactId>sqlite-jdbc</artifactId>
-    <version>3.44.0.0</version>
-</dependency>
 <dependency>
     <groupId>org.xerial</groupId>
     <artifactId>sqlite-jdbc</artifactId>
     <version>3.44.0.0</version>
+</dependency>
+
+<dependency>
+    <groupId>org.hibernate.orm</groupId>
+    <artifactId>hibernate-community-dialects</artifactId>
+    <version>6.0.2.Final</version>
 </dependency>
 
 <dependency>
