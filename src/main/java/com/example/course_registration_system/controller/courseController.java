@@ -35,7 +35,6 @@ public class courseController
 	@PostMapping("/register")
 	public String  registercourse(@RequestParam("name") String name,@RequestParam("email") String email,@RequestParam("Coursename") String Coursename)
 	{
-		
 		CourseService.registercourse(name,email,Coursename);
 		return "thank you" +  name + "for successfully enrolling in" +   Coursename ;
 	}
