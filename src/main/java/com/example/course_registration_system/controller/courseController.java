@@ -17,7 +17,6 @@ import com.example.course_registration_system.service.CourseService;
 @RequestMapping("/courses")
 public class courseController 
 {
-	
 	@Autowired
 	CourseService CourseService;
 	@GetMapping
