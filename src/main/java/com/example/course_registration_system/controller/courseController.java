@@ -24,9 +24,7 @@ public class courseController
 	public List<course> AvailableCourse()
 	{
 		return CourseService.AvailableCourse();
-		
 	}
-	
 	 @GetMapping("/enrolled")
 	public List<courseregistry> enrolledstudents()
 	{
