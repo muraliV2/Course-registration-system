@@ -2,7 +2,6 @@ package com.example.course_registration_system.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-
 @Entity
 
 public class course 
