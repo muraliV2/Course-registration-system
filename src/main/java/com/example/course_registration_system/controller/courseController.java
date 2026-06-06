@@ -25,7 +25,6 @@ public class courseController
 	{
 		return CourseService.AvailableCourse();
 		
-		
 	}
 	
 	 @GetMapping("/enrolled")
