@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.course_registration_system.model.course;
 import com.example.course_registration_system.model.courseregistry;
 import com.example.course_registration_system.service.CourseService;
-
 @RestController
 @CrossOrigin
 @RequestMapping("/courses")
