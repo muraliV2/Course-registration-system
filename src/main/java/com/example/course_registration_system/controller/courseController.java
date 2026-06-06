@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-
 import com.example.course_registration_system.model.course;
 import com.example.course_registration_system.model.courseregistry;
 import com.example.course_registration_system.service.CourseService;
