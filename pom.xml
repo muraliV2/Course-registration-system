@@ -48,7 +48,6 @@
     <artifactId>hibernate-community-dialects</artifactId>
     <version>6.0.2.Final</version>
 </dependency>
-
 <dependency>
     <groupId>com.github.gwenn</groupId>
     <artifactId>sqlite-dialect</artifactId>
