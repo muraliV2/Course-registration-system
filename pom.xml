@@ -44,7 +44,6 @@
     <artifactId>sqlite-jdbc</artifactId>
     <version>3.44.0.0</version>
 </dependency>
-
 <dependency>
     <groupId>org.hibernate.orm</groupId>
     <artifactId>hibernate-community-dialects</artifactId>
